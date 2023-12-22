@@ -1,4 +1,4 @@
-### 2.0: Alphabet Wordsigns
+### Alphabet Wordsigns
 
 but&nbsp;&nbsp;&nbsp;&nbsp;&#x2803;&nbsp;&nbsp;&nbsp;&nbsp;dots 12  
 can&nbsp;&nbsp;&nbsp;&nbsp;&#x2809;&nbsp;&nbsp;&nbsp;&nbsp;dots 1 and 4  
