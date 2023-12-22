@@ -1,4 +1,6 @@
-### 4.0: Lower Wordsigns
+### Lower Contractions
+
+#### Lower Wordsigns
 
 be&nbsp;&nbsp;&nbsp;&nbsp;&#x2806;&nbsp;&nbsp;&nbsp;&nbsp;dots 23  
 his&nbsp;&nbsp;&nbsp;&nbsp;&#x2826;&nbsp;&nbsp;&nbsp;&nbsp;dots 23 and 6  
