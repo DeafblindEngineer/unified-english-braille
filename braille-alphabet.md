@@ -1,4 +1,4 @@
-## 1.0: Braille Alphabet
+### Braille Alphabet
 
 a&nbsp;&nbsp;&nbsp;&nbsp;&#x2801;&nbsp;&nbsp;&nbsp;&nbsp;dot 1  
 b&nbsp;&nbsp;&nbsp;&nbsp;&#x2803;&nbsp;&nbsp;&nbsp;&nbsp;dots 12  
