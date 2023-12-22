@@ -1,4 +1,4 @@
-### 3.0: Strong Contractions (Whole Words)
+### 3.0: Strong Wordsigns
 
 and&nbsp;&nbsp;&nbsp;&nbsp;&#x282f;&nbsp;&nbsp;&nbsp;&nbsp;dots 123 and 46  
 for&nbsp;&nbsp;&nbsp;&nbsp;&#x283f;&nbsp;&nbsp;&nbsp;&nbsp;dots 123 and 456  
