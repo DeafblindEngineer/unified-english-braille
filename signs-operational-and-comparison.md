@@ -28,7 +28,7 @@ Not Identical To&nbsp;&nbsp;&nbsp;&nbsp;≢&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x28
 Element of (member of)&nbsp;&nbsp;&nbsp;&nbsp;∈&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&#x2811;&nbsp;&nbsp;&nbsp;&nbsp;dots 45, dots 1 and 5  
 Not an element of&nbsp;&nbsp;&nbsp;&nbsp;∉&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&#x2811;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dots 45, dots 1 and 5, dot 4, dots 1 and 56  
 Contains as member&nbsp;&nbsp;&nbsp;&nbsp;∋&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2818;&#x2811;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 45, dots 1 and 5  
-Does not contain as member&nbsp;&nbsp;&nbsp;&nbsp;∌&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2818;&#x2811;&#x2808;&#x28&nbsp;&nbsp;&nbsp;&nbsp;1;dot 4, dots 45, dots 1 and 5, dot 4, dots 1 and 56  
+Does not contain as member&nbsp;&nbsp;&nbsp;&nbsp;∌&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2818;&#x2811;&#x2808;&#x281;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 45, dots 1 and 5, dot 4, dots 1 and 56  
 Subset of (is contained in)&nbsp;&nbsp;&nbsp;&nbsp;⊂&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&#x2823;&nbsp;&nbsp;&nbsp;&nbsp;dots 45, dots 12 and 6  
 Superset (contains)&nbsp;&nbsp;&nbsp;&nbsp;⊃&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&#x281c;&nbsp;&nbsp;&nbsp;&nbsp;dots 45, dots 3 and 45  
 Not a subset of&nbsp;&nbsp;&nbsp;&nbsp;⊄&nbsp;&nbsp;&nbsp;&nbsp;&#x2818;&#x2823;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dots 45, dots 12 and 6, dot 4, dots 1 and 56  
