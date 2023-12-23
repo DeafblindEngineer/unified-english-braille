@@ -1,4 +1,4 @@
-### Numeric Prefix
+### Numeric Indicators
 
 These signs are used as part of the braille code, they have no direct 
 print equivalent.
