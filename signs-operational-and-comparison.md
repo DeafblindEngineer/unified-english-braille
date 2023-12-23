@@ -15,7 +15,7 @@ Much Greater Than Sign&nbsp;&nbsp;&nbsp;&nbsp;≫&nbsp;&nbsp;&nbsp;&nbsp;&#x2828
 Not Less Than Sign&nbsp;&nbsp;&nbsp;&nbsp;≮
 &nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2823;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 12 and 6, dot 4, dots 1 and 56  
 Not Greater Than Sign&nbsp;&nbsp;&nbsp;&nbsp;≯&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x281c;&#x2804;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 3 and 45, dot 3, dots 1 and 56  
-Neither Less Than nor Equal To Sign&nbsp;&nbsp;&nbsp;&nbsp;≰&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2808;&#x2823;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;;dots 456, dot 4, dots 12 and 6, dot 4, dots 1 and 56  
+Neither Less Than nor Equal To Sign&nbsp;&nbsp;&nbsp;&nbsp;≰&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2808;&#x2823;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dots 456, dot 4, dots 12 and 6, dot 4, dots 1 and 56  
 Neither Greater Than nor Equal To Sign&nbsp;&nbsp;&nbsp;&nbsp;≱&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2808;&#x281c;&#x2808;&#x2831;&nbsp;&nbsp;&nbsp;&nbsp;dots 456, dot 4, dots 3 and 45, dot 4, dots 1 and 56  
 Proportional To Sign&nbsp;&nbsp;&nbsp;&nbsp;∝&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2810;&#x2836;&nbsp;&nbsp;&nbsp;&nbsp;dots 456, dot 5, dots 23 and 56  
 Approximately Equal To Sign&nbsp;&nbsp;&nbsp;&nbsp;≃&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2814;&nbsp;&nbsp;&nbsp;&nbsp;dots 456, dots 3 and 5  
