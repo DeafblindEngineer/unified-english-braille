@@ -39,7 +39,7 @@
 #### SECTION NINE: Technical Signs
 * [Signs Operational and Comparison](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/signs-operational-and-comparison.md)
 * [Currency Signs](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/currency-signs.md)
-* [Embellishment](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/embellishments.md)
+* [Embellishments](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/embellishments.md)
 * [Shapes](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/shapes.md)
 * [Miscellaneous Signs](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/miscellaneous-signs.md)
 
