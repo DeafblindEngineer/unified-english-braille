@@ -60,34 +60,14 @@ Asterisk Operator&nbsp;&nbsp;&nbsp;&nbsp;∗&nbsp;&nbsp;&nbsp;&nbsp;&#x2810;&#x2
 Ring Operator&nbsp;&nbsp;&nbsp;&nbsp;∘&nbsp;&nbsp;&nbsp;&nbsp;&#x2810;&#x2834;&nbsp;&nbsp;&nbsp;&nbsp;dot 5, dots 3 and 56  
 Tilde Operator&nbsp;&nbsp;&nbsp;&nbsp;∼&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2814;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 3 and 5  
 Dot Operator&nbsp;&nbsp;&nbsp;&nbsp;⋅&nbsp;&nbsp;&nbsp;&nbsp;&#x2810;&#x2832;&nbsp;&nbsp;&nbsp;&nbsp;dots 5, 2 and 56  
+Logical and&nbsp;&nbsp;&nbsp;&nbsp;∧&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2826;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 23 and 6  
+Logical or&nbsp;&nbsp;&nbsp;&nbsp;∨&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2816;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 23 and 5  
+Intersection&nbsp;&nbsp;&nbsp;&nbsp;∩&nbsp;&nbsp;&nbsp;&nbsp;&#x2828;&#x2826;&nbsp;&nbsp;&nbsp;&nbsp;dots 46, dots 23 and 6  
+Union&nbsp;&nbsp;&nbsp;&nbsp;∪&nbsp;&nbsp;&nbsp;&nbsp;&#x2828;&#x2816;&nbsp;&nbsp;&nbsp;&nbsp;dots 46, dots 23 and 5  
+Set minus&nbsp;&nbsp;&nbsp;&nbsp;∖&nbsp;&nbsp;&nbsp;&nbsp;&#x2838;&#x2821;&nbsp;&nbsp;&nbsp;&nbsp;dots 456, dots 1 and 6  
 
-Logical and
-∧
-&#x2808;&#x2826;
-dot 4, dots 23 and 6
+#### Miscellaneous Signs
 
-Logical or
-∨
-&#x2808;&#x2816;
-dot 4, dots 23 and 5
-
-Intersection
-∩
-&#x2828;&#x2826;
-dots 46, dots 23 and 6
-
-Union
-∪
-&#x2828;&#x2816;
-dots 46, dots 23 and 5
-
-Set minus
-∖
-&#x2838;&#x2821;
-dots 456, dots 1 and 6
-
-**********
-
-running product 	·	&#x2810;&#x2832;	dots 5, 2 and 56
-multiplication dot 	·	&#x2810;&#x2832;	dots 5, 2 and 56
-ratio sign		:	&#x2812;		dots 2 and 5
+Running Product&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&#x2810;&#x2832;&nbsp;&nbsp;&nbsp;&nbsp;dot 5, dots 2 and 56  
+Multiplication Dot&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&#x2810;&#x2832;&nbsp;&nbsp;&nbsp;&nbsp;dot 5, dots 2 and 56  
+Ratio Sign&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&#x2812;&nbsp;&nbsp;&nbsp;&nbsp;dots 2 and 5  
