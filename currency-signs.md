@@ -1,4 +1,4 @@
-### Currency
+### Currency Signs
 
 Cent&nbsp;&nbsp;&nbsp;&nbsp;¢&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x2809;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 1 and 4  
 Dollar&nbsp;&nbsp;&nbsp;&nbsp;$&nbsp;&nbsp;&nbsp;&nbsp;&#x2808;&#x280e;&nbsp;&nbsp;&nbsp;&nbsp;dot 4, dots 23 and 4  
