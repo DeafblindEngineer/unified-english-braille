@@ -1,5 +1,13 @@
 ### Ungifed English Braille (UEB)
 
+Unified English Braille (UEB) is my primary braille table. It was developed by the International Council on English Braille (ICEB). UEB is a complete code that is used for both literary (non-technical) and STEM (technical) materials in English-speaking countries. The general principle of UEB is that each print symbol has one and only one braille equivalent by using the same physical symbol regardless of context (literary or technical).
+
+UEB is a 6-dot braille code but there are only sixty-four possible combinations with a 6-dot cell. To overcome this limitation some signs will have more than one braille cell, or one braille cell will represent more than one character. A good example would be an asterisk (*) which is formed with two cells, a prefix, and a root. In UEB a prefix is a braille character that has only right-hand dots. The root is any of the fifty-six braille characters that are not a prefix. In the case of an asterisks, it has a dot 5 prefix and a root with dots 3 and 5. Whereas the word “and” is a strong wordsign and the three characters are represented as one braille cell with dots 123 and 46. This is known as contracted braille.
+
+The Unified English Braille (UEB) Table is huge, so I have divided the braille table into easy to find reference sections. This is not a complete or definite list, but it is comprehensive, and I will continue to add braille signs that I find useful as a deafblind engineer. I will write about the more complex use of UEB in my notebook, such as linear algebra, and matrices that is required for machine learning.
+
+Below are links to a collection of UEB Signs that I find useful as a deafblind software engineer:
+
 ### Table of Contents
 
 #### SECTION ONE: Alphabet
