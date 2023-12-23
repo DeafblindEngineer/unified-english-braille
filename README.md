@@ -27,7 +27,7 @@
 
 #### SECTION SEVEN: Indicators
 * [Numeric Indicators](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/numeric-indicators.md)
-* [Capitals Indicator](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/capitals-indicator.md)
+* [Capitals Indicators](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/capitals-indicators.md)
 * [Grade 1 Indicator](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/grade-1-indicator.md)
 * [Typeforms Indicators](https://github.com/DeafblindEngineer/unified-english-braille-table/blob/main/typeforms-indicators.md)
 
