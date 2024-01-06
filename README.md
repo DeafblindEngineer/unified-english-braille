@@ -1,4 +1,4 @@
-### Ungifed English Braille (UEB)
+### Unified English Braille (UEB)
 
 Unified English Braille (UEB) is my primary braille table. It was developed by the International Council on English Braille (ICEB). UEB is a complete code that is used for both literary (non-technical) and STEM (technical) materials in English-speaking countries. The general principle of UEB is that each print symbol has one and only one braille equivalent by using the same physical symbol regardless of context (literary or technical).
 
